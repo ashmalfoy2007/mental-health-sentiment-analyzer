@@ -29,4 +29,6 @@ To analyze human emotions from text and provide helpful suggestions for mental w
 * Scikit-learn
 * NLTK
 
-##
+## Author
+ANUSHKA BHATNAGAR
+25BCE10312
